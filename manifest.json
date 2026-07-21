@@ -1,0 +1,40 @@
+{
+  "background_color": "#ffffff",
+  "description": "বাংলা ও ইংরেজি টাইপিং অনুশীলনের ইনস্টলযোগ্য, অফলাইন-সক্ষম অ্যাপ।",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Typing Rahmot",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Typing jobs",
+  "start_url": "/",
+  "theme_color": "#1a237e",
+  "icons": [
+    {
+      "src": "https://hmrahmotullah94.github.io/icons/icon-192.png",
+      "type": "image/png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://hmrahmotullah94.github.io/icons/apple-touch-icon.png",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "categories": [
+    "education"
+  ]
+}
